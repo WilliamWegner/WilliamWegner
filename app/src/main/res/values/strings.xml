@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="Titulo">Formulario</string>
+    <string name="nome">nome</string>
+    <string name="idade">idade</string>
+    <string name="email">email</string>
+    <string name="Cadastrar">Cadastrar</string>
+    <string name="Titulo2">Dados Cadastrados</string>
+    <string name="btnOk">Ok</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<dimen name="tamanho_letra">30dp</dimen>
+    <dimen name="espaço">30dp</dimen>
+    <dimen name="tamanho_letra_for">15dp</dimen>
+    <dimen name="espaço_top">30dp</dimen>
+
+
+</resources>
