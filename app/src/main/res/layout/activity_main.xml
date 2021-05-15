@@ -28,7 +28,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="@dimen/espaço"
-            android:text="@string/nome"
+            android:hint="@string/nome"
             android:inputType="text" />
 
         <EditText
@@ -36,7 +36,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="@dimen/espaço"
-            android:text="@string/idade"
+            android:hint="@string/idade"
             android:inputType="text"/>
 
         <EditText
@@ -44,7 +44,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="@dimen/espaço"
-            android:text="@string/email"
+            android:hint="@string/email"
             android:inputType="text" />
 
         <Button
